@@ -66,7 +66,7 @@ The options are consistent with the widget options:
 * num_of_images
 * random (true|false)
 
-If you need help, don’t hesitate to contact me! 
+If you need help, don’t hesitate to contact me! In addition this [German blog article](http://www.bjoerne.com/instagram-bilder-mit-ifttt-den-eigenen-wordpress-blog-einbinden/) may help you.
 
 If you like this plugin, please rate it.
 
