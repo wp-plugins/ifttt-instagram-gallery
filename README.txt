@@ -105,3 +105,8 @@ e.g.
 3. Configure and use the gallery widget
 4. Plugin in action (Screenshot of [http://travel.bjoerne.com/](http://travel.bjoerne.com/))
 5. Plugin options
+
+== Changelog ==
+
+= 1.0.1 =
+* Compatibility to PHP 5.3
