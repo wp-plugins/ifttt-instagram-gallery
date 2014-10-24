@@ -3,7 +3,7 @@ Contributors: bjoerne
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XS98Y5ASSH5S4
 Tags: ifttt, ifthisthenthat, instagram, gallery
 Requires at least: 3.9
-Tested up to: 4.0
+Tested up to: 3.9.2
 Stable tag: trunk
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
@@ -114,3 +114,6 @@ e.g.
 = 1.0.2 =
 * Bugfix regarding compatibility to PHP 5.3
 * Bugfix regarding customized widget title
+
+= 1.0.3 =
+* Bugfix: Special characters led to broken title attributes of Instagram images and invalid html. Title attributes of images are now escaped with htmlspecialchars().
